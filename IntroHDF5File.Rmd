@@ -13,6 +13,7 @@ output: html_document
 library(raster)
 library(rhdf5)
 library(rgdal)
+library(devtools)
 
 ```
 
